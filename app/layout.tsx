@@ -36,11 +36,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           data-company-widget
           src="https://livechat.artaatechnologies.com/v1/widget/assets/c06-b5e15e1ca7edf9c27d9d6ef1/loader-73398429ea93ef6c.js"
           data-widget-key="w_EClLkqn0OKw7_9OwPAsTA9-cvH10b-U8tZptow5xtU0"
-          data-installation-key="i_VISI6C8tmTD53mhRUkyBaOn_dTqyAxWBygFiu9Obrgo"
-          data-mode="SERVER"
+          data-installation-key="i_1SXKkYVcOQNM88bKQJn6LitMDGRNxNNpPNALpJaKJHw"
+          data-mode="UNIVERSAL"
           data-api-origin="https://livechat.artaatechnologies.com"
-          data-bootstrap-url="https://test-website-livechat.vercel.app/company-chat/bootstrap"
-          data-withdraw-url="https://test-website-livechat.vercel.app/company-chat/withdraw"
         ></script>
       </body>
     </html>
